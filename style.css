@@ -1,19 +1,18 @@
 :root {
-  --bg: #eff2f2;
-  --text: #111;
-  --btn: #ccb7f7;
-  --btn-hover: #675ecb;
-  --display: #fff;
+  --bg: #fafafa;
+  --text: #e4e5f1;
+  --btn: #d2d3db;
+  --btn-hover: #9394a5;
+  --display: #484b6a;
 }
 
 .dark {
-  --bg: #0f2027;
+  --bg: #0d0d0d;
   --text: #ffffff;
-  --btn: #503030d4;
-  --btn-hover: #e2dee9ea;
+  --btn: #00ff85;
+  --btn-hover: #ff0099;
   --display: #f1eded;
 }
-
 body {
   background: #e0f7fa;
   color: black;
