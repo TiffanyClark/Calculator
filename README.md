@@ -1,1 +1,1 @@
-I created  simple Calculator. This is a project I created to to be hired as a contractor for a company . Lead also tested me to see if I can find changes and debug issues in Project. Lead on the project did a great job in challenging.I enjoyed creating this. 
+I created  simple Calculator. This is a project I created to to be hired as a contractor for a company . Lead also tested me to see if I can find changes and debug issues in Project. Lead on the project did a great job in challenging me.I enjoyed creating this. I will add more details in the future. 
